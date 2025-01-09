@@ -9,10 +9,14 @@
  }
 
  h2 {
-    color: purple;
+    color: blue;
     background-color: black;
  }
 
  h6 {
     color: red;
+ }
+
+ p  {
+    color: yellow
  }
